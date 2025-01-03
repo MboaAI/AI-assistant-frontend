@@ -19,3 +19,14 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+a {
+  color: #1d4ed8;
+  /* Default blue color */
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #2563eb;
+  /* Slightly darker blue on hover */
+}
